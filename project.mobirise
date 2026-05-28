@@ -47,9 +47,26 @@
     ],
     "uniqCompNum": 26,
     "versionPublish": "6.1.12",
-    "chatbutton": {},
+    "chatbutton": {
+      "phone": "+5511997554553",
+      "message": "",
+      "size": "65px",
+      "backgroundColor": "#e5ddd5",
+      "position": "right",
+      "popupMessage": "Oi Profe!👋\n\nEscreva sua mensagem, ela vem direto para o nosso telefone!! \n\nTime Papo de Profes",
+      "showPopup": true,
+      "showOnIE": true,
+      "autoOpenTimeout": "5",
+      "headerColor": "#39847a",
+      "headerTitle": "👋 Fale com a gente pelo WhatsApp!",
+      "placeholder": "Sua mensagem",
+      "zIndex": 10,
+      "chatbuttonPopup": true,
+      "defaultMessage": "",
+      "enabled": true
+    },
     "favicon": false,
-    "mbrsiteDomain": "gv4afyim2a",
+    "mbrsiteDomain": "xhonowbeim",
     "imageResize": false,
     "usedWebp": false,
     "robotsSwitcher": false,
@@ -68,7 +85,8 @@
         "meta_descr": "Aprenda a planejar aulas de idiomas com começo, meio e fim, para alunos de diferentes níveis e com diferentes objetivos, seja você uma professora novata ou experiente.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/chatgpt-image-6-de-mai.-de-2026-15-16.png"
       },
       "components": [
         {
@@ -834,12 +852,12 @@
           "_anchor": "menu06-p",
           "_isUserblock": true,
           "_cid": "viRGKStKis",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         },
         {
           "alias": false,
